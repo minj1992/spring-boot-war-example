@@ -36,6 +36,18 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+     <distributionManagement>
+        <repository>
+          <id>nexus</id>
+          <name>KC Tech Releases Nexus Repository</name>
+          <url>http://34.170.246.217:8081/repository/minj-releases/</url>
+        </repository>
+        <snapshotRepository>
+          <id>nexus</id>
+          <name>minjtech Snapshot Nexus Repository </name>
+           <url>http://34.170.246.217:8081/repository/nishant-snapshot/</url>
+        </snapshotRepository>
+   </distributionManagement>
 
   <build>
     <plugins>
