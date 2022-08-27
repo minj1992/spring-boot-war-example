@@ -38,14 +38,14 @@
   </dependencies>
      <distributionManagement>
         <repository>
-          <id>nexus</id>
+          <id>genpact</id>
           <name>KC Tech Releases Nexus Repository</name>
           <url>http://34.170.246.217:8081/repository/minj-releases/</url>
         </repository>
         <snapshotRepository>
-          <id>nexus</id>
+          <id>genpact</id>
           <name>minjtech Snapshot Nexus Repository </name>
-           <url>http://34.170.246.217:8081/repository/nishant-snapshot/</url>
+           <url>http://34.122.161.187:8081/repository/nishant_snapshot/</url>
         </snapshotRepository>
    </distributionManagement>
 
