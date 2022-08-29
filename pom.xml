@@ -45,7 +45,7 @@
         <snapshotRepository>
           <id>genpact</id>
           <name>minjtech Snapshot Nexus Repository </name>
-           <url>http://34.122.161.187:8081/repository/nishant_snapshot/</url>
+           <url>http://34.72.216.32:8081/repository/nishant_snapshot/</url>
         </snapshotRepository>
    </distributionManagement>
 
