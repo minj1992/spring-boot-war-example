@@ -36,6 +36,7 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+ <--!
      <distributionManagement>
         <repository>
           <id>genpact</id>
@@ -48,6 +49,7 @@
            <url>http://35.192.13.230:8081/repository/genpact_snapahot/</url>
         </snapshotRepository>
    </distributionManagement>
+-->
 
   <build>
     <plugins>
