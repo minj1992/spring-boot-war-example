@@ -36,20 +36,6 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
- <--!
-     <distributionManagement>
-        <repository>
-          <id>genpact</id>
-          <name>KC Tech Releases Nexus Repository</name>
-          <url>http://35.192.13.230:8081/repository/minj-releases/</url>
-        </repository>
-        <snapshotRepository>
-          <id>genpact</id>
-          <name>minjtech Snapshot Nexus Repository </name>
-           <url>http://35.192.13.230:8081/repository/genpact_snapahot/</url>
-        </snapshotRepository>
-   </distributionManagement>
--->
 
   <build>
     <plugins>
